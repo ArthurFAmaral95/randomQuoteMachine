@@ -1,0 +1,15 @@
+@use "variables";
+
+#tweet-quote {
+  padding: 0.5rem;
+  border-radius: variables.$border-radius;
+  transition: variables.$transition-background;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  text-decoration: none;
+
+  i {
+    font-size: variables.$large-font-size;
+  }
+}

@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/author.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE;EACA","file":"author.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/author.scss","../sass/_variables.scss"],"names":[],"mappings":"AAEA;EACE;EACA;;;AAGF;EACE,YCLiB;EDMjB,WCTgB","file":"author.css"}

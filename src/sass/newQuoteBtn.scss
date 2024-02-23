@@ -1,0 +1,12 @@
+@use "variables";
+
+#new-quote {
+  cursor: pointer;
+  padding: 0.5rem;
+  border: none;
+  border-radius: variables.$border-radius;
+  color: white;
+  transition: variables.$transition-background;
+  font-size: variables.$small-font-size;
+  height: 3rem;
+}

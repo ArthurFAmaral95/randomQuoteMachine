@@ -1,3 +1,14 @@
-
+#tweet-quote {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  transition: background-color 1s;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  text-decoration: none;
+}
+#tweet-quote i {
+  font-size: 2rem;
+}
 
 /*# sourceMappingURL=tweetBtn.css.map */

@@ -1,9 +1,11 @@
-.author-container{
+@use "variables";
+
+.author-container {
   text-align: right;
   margin-block: 2rem;
 }
 
-#author{
-  transition: color 1s;
-  font-size: 1.5rem;
+#author {
+  transition: variables.$transition-color;
+  font-size: variables.$small-font-size;
 }

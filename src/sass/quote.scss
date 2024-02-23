@@ -1,11 +1,11 @@
+@use "variables";
+
 .quote-text-container {
   display: flex;
   gap: 1rem;
   width: 100%;
   justify-content: center;
-  font-size: 2rem;
+  font-size: variables.$large-font-size;
   text-align: center;
-  transition: color 1s;
+  transition: variables.$transition-color;
 }
-
-/*# sourceMappingURL=quote.css.map */
