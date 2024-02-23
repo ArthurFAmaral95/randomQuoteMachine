@@ -1,0 +1,9 @@
+.author-container {
+  text-align: right;
+  margin-block: 20px;
+}
+
+#author {
+  transition: color 1s;
+  font-size: 1.5rem;
+}

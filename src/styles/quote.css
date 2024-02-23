@@ -1,0 +1,9 @@
+.quote-text-container {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+  justify-content: center;
+  font-size: 2rem;
+  text-align: center;
+  transition: color 1s;
+}
