@@ -1,27 +1,37 @@
-# vite-template-redux
+<h1 align="center">💬 Random Quote Machine 💻</h1>
 
-Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Testing Library](https://github.com/testing-library/react-testing-library) to create a modern [React](https://react.dev/) app compatible with [Create React App](https://create-react-app.dev/)
+<p align="center">
+  <img alt="Random Quote Machine" src="./public/randomQuoteMachine.png" width="100%">
+</p>
 
-```sh
-npx degit reduxjs/redux-templates/packages/vite-template-redux my-app
-```
+<h2>
+This project is a simple poge where it is possible to fetch random phrases from an API.
+</h2>
 
-## Goals
+## 💻 Project
 
-- Easy migration from Create React App or Vite
-- As beginner friendly as Create React App
-- Optimized performance compared to Create React App
-- Customizable without ejecting
+<p>
+This project consists of a random quote machine with the following funcionalities:
+</p>
+<ul>
+  <li>
+    Click the "New Quote" button to fetch from the API  a random quote.
+  </li>
+  <li>
+    A link to Twitter.
+  </li>
+ </ul>
 
-## Scripts
+## 🚀 Technologies
 
-- `dev`/`start` - start dev server and open browser
-- `build` - build for production
-- `preview` - locally preview production build
-- `test` - launch test runner
+This project was developed using the following technologies:
 
-## Inspiration
+- React
+- TypeScript
+- Redux
+- SASS
+- Git
 
-- [Create React App](https://github.com/facebook/create-react-app/tree/main/packages/cra-template)
-- [Vite](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react)
-- [Vitest](https://github.com/vitest-dev/vitest/tree/main/examples/react-testing-lib)
+## 🔖 How to access it
+
+- Download the zip file, download the modules needed with <code>npm install</code>, run <code>npm run dev</code> on the terminal and access localhost on a browser.
